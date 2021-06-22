@@ -1,4 +1,6 @@
 # Tali Forth 2 for the 65c02  
+Potentially a new Thistle Forth, we'll see
+
 Scot W. Stevenson <scot.stevenson@gmail.com>   
 First version: (Tali Forth 1 ) 19. Jan 2014
 This version: (Version 1.0 ) 25. Jan 2020
